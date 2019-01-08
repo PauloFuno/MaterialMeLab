@@ -1,0 +1,42 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/pauloschmidt/Downloads/android-fundamentals-apps-v2-master/MaterialMe/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml",
+            "map": [
+                {
+                    "source": "/Users/pauloschmidt/Downloads/android-fundamentals-apps-v2-master/MaterialMe/app/src/main/res/values-pt-rBR/strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,2,4,5,6,3",
+                        "startColumns": "-1,-1,4,4,4,4,4",
+                        "startOffsets": "-1,-1,55,158,211,281,105",
+                        "endColumns": "-1,-1,49,52,69,65,52",
+                        "endOffsets": "-1,-1,100,206,276,342,153"
+                    },
+                    "to": {
+                        "startLines": "2,15,47,48,50,52,53",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,604,2983,3033,3171,3342,3408",
+                        "endLines": "14,27,47,48,50,52,53",
+                        "endColumns": "19,19,49,52,69,65,52",
+                        "endOffsets": "599,985,3028,3081,3236,3403,3456"
+                    }
+                },
+                {
+                    "source": "/Users/pauloschmidt/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/231acf430ebeccc2394959ba462b2abd/res/values-pt-rBR/values-pt-rBR.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,49,51",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "990,1110,1218,1341,1447,1554,1643,1744,1862,1945,2025,2112,2219,2331,2433,2541,2648,2758,2883,3086,3241",
+                        "endColumns": "119,107,122,105,106,88,100,117,82,79,86,106,111,101,107,106,109,124,99,84,100",
+                        "endOffsets": "1105,1213,1336,1442,1549,1638,1739,1857,1940,2020,2107,2214,2326,2428,2536,2643,2753,2878,2978,3166,3337"
+                    }
+                }
+            ]
+        }
+    ]
+}

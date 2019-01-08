@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meu mateiral</string>
+    <string name="title_placeholder">Titulo</string>
+    <string name="news_placeholder">Noticia</string>
+    <string name="sports_info_placeholder">Algumas noticias!</string>
+    <string name="subtitle_detail_text">texto de detalhe</string>
+
+    <string-array name="sports_titles">
+        <item>beisebol</item>
+        <item>Badminton</item>
+        <item>Basquete</item>
+        <item>Boliche</item>
+        <item>Ciclismo</item>
+        <item>Golfe</item>
+        <item>Corrida</item>
+        <item>futebol</item>
+        <item>Natação</item>
+        <item>Tênis de mesa</item>
+        <item>Tênis</item>
+    </string-array>
+
+    <string-array name="sports_info">
+        <item>Noticia sobre Beisebol!</item>
+        <item>Noticia sobre Badminton!</item>
+        <item>Noticia sobre Basquete!</item>
+        <item>Noticia sobre Boliche!</item>
+        <item>Noticia sobre Ciclismo!</item>
+        <item>Noticia sobre Golfe!</item>
+        <item>Noticia sobre Corrida!</item>
+        <item>Noticia sobre futebol!</item>
+        <item>Noticia sobre Natação!</item>
+        <item>Noticia sobre Tênis de mesa!</item>
+        <item>Noticia sobre Tênis!</item>
+    </string-array>
+
+
+</resources>
